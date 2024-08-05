@@ -1,0 +1,48 @@
+span{
+    color: blue;
+}
+#viewall{
+    margin-top: 20px;
+}
+#about{
+    margin-left: 15px;
+   
+}
+#hover :hover{
+    color: blue;
+}
+#aero1{
+    margin-left: 700px;
+    position:absolute;
+    bottom:100px;
+   
+}
+#head{
+   position:absolute;
+    top: 130px;
+    left: 900px;
+}
+#img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#svg{
+    position:absolute;
+    left:950px;
+    top:250px;
+}
+#about h2{
+    margin-bottom: 20px;
+    
+        font-family: "IBM Plex Sans", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+    
+    
+}
+
+#resize{
+    height: 500x;
+    width: 700px;
+}
+
